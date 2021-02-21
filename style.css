@@ -1,0 +1,82 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+
+.header
+{
+    text-align: center;
+    padding-top: 10px;
+    background : fuchsia ;
+    font-size: 20px;
+    padding-bottom: 40px;
+}
+.header1
+{
+    text-align: left;
+    padding-left: 20px;
+    padding-top: 10px;
+    color:white;
+    width: 100px;
+}
+.second1
+{
+  padding: 50px;
+  text-align: center;
+
+
+}
+.input
+{
+
+    width: 145px;
+    height: 28px;
+
+
+}
+
+#btn
+{
+    width: 60px;
+
+    height: 32px;
+    background: chartreuse;
+    color: crimson;
+
+}
+.second1
+{
+background:fuchsia;
+}
+.salary
+{
+    display: inline-block;
+    margin: 20px;
+    padding: 30px;
+    padding-left: 350px;
+}
+.id
+{
+    background: slateblue;
+    padding: 8px;
+    border-radius: 5px;
+    text-align: center;
+}
+.amount
+{
+    background: lightseagreen;
+    text-align: center;
+    padding: 8px;
+    border-radius: 5px;
+    width: 150px;
+}
+.third
+{
+    background: fuchsia;
+}
+body
+{
+    background: fuchsia;
+    margin-bottom: 500px;
+}
